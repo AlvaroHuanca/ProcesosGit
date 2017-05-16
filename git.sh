@@ -3,5 +3,5 @@
 cd /home/alvaro/Documentos/SistemasOp/ProcesosGit
 
 git add .
-git commit -am "lunes"
+git commit -am "lunes primer"
 git push -u origin master

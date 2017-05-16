@@ -1,2 +1,2 @@
-00 20 * * 1-4 /home/alvaro/Documentos/SistemasOp/ProcesosGit
-30 17 * * 5   /home/alvaro/Documentos/SistemasOp/ProcesosGit   
+00 20 * * 1-4 /home/alvaro/Documentos/SistemasOp/ProcesosGit/git.sh
+30 17 * * 5   /home/alvaro/Documentos/SistemasOp/ProcesosGit/git.sh   
